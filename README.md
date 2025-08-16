@@ -1,4 +1,4 @@
-Portfolio Website
+Portfolio Website :->
 
 This is my personal portfolio website, built using HTML, CSS, and JavaScript. It highlights my skills, experience, and projects with a responsive design that works seamlessly on desktop and mobile devices.
 
@@ -31,7 +31,7 @@ Right-click anywhere in the file and select “Open with Live Server”.
 
 Your browser will open the website at http://127.0.0.1:5500/ (or similar).
 
-*** Now you can view and test your portfolio locally.***
+** Now you can view and test your portfolio locally.**
 
 // Project Structure
 ├── index.html          # Main HTML file
@@ -50,7 +50,7 @@ JavaScript (Vanilla JS) – Interactivity
 
 // Contact
 
-Feel free to connect with me:
+**Feel free to connect with me:-**
 
 LinkedIn: Kumar Saurav
 
